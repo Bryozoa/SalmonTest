@@ -20,8 +20,9 @@ This project contains automated tests for the JSONPlaceholder fake online REST A
 │                   ├── JsonPlaceholderApiTest.java   # Positive tests for the API
 │                   └── JsonPlaceholderApiNegativeTest.java # Negative tests for the API
 └── build.gradle.kts      # Gradle build script
+```
 
-### Steps to Execute the Project
+## Steps to Execute the Project
 
 1. **Clone the Repository**: Download the project to your local machine.
 2. **Build the Project**: Use Gradle to build the project and resolve dependencies.
